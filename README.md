@@ -29,3 +29,5 @@ The RAG (Retrieval-Augmented Generation) model for a Question-Answering (QA) bot
    - In real-world applications, the RAG QA bot may have a user interface that allows users to input queries and receive responses. The interface may also include features for providing feedback, enhancing the interactive learning process.
 
 The RAG QA bot model represents a powerful approach to address the challenges of question-answering tasks, providing a balance between information retrieval and generation to deliver accurate and contextually appropriate responses.
+
+using JUpyter, openai, python librarey
